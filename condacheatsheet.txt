@@ -1,0 +1,28 @@
+conda create --name nana_tf  python=3.6
+
+source activate env_name  ##Linux
+activate env_name ##windows
+
+conda install jupyter scikit-learn matplotlib pandas
+
+jupyter notebook
+
+matplotlib practice
+
+#next import opencv
+
+conda install -c menpo opencv3 ## python 3.5 env only
+
+uc irvine dataset # for practice
+
+at least 32G ram
+scikit-learn < 100Mb
+
+random forest malware classifier -- random trees
+
+scikit learn classification metrics
+
+regression accuracy = (true-predicted)/true
+
+conda install seaborn
+pampaganda kay matlobplotlib
